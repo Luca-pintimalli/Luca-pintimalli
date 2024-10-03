@@ -1,6 +1,5 @@
 <h2 align="center">Ciao 👋🏻 Mi chiamo Pintimalli Luca e sono un Junior Full Stack Developer.</h2>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luca-pintimalli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2" height="145" alt="languages graph"  />
