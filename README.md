@@ -1,4 +1,3 @@
-
 <h2 align="center">Ciao 👋🏻 Mi chiamo Pintimalli Luca e sono un Junior Full Stack Developer.</h2>
 
 ###
