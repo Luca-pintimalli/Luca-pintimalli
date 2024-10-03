@@ -1,6 +1,6 @@
 <!-- Blocco di presentazione -->
 <div align="center" style="border: 2px solid #ccc; border-radius: 10px; padding: 20px; margin: 20px;">
-  <h1>Ciao 👋🏻</h1>
+  <h1 style="border:none">Ciao 👋🏻</h1>
   <h2>😄 Mi chiamo Pintimalli Luca e sono un Junior Full Stack Developer. 🚀</h2>
 </div>
 
